@@ -16,4 +16,4 @@ Link Notebook: [Generative_AI | Kaggle](https://www.kaggle.com/code/tiesinger/ge
 
 ## <font color=blue>Q4: Face Recognition</font>
 
-Link Notebook: Notebook link: [Face Recognition With GhostFaceNet](https://colab.research.google.com/drive/1FSOmuh382_pZpMdwLrdKVBxFyeY3948p?usp=sharing)
+Link Notebook: [Face Recognition With GhostFaceNet](https://colab.research.google.com/drive/1FSOmuh382_pZpMdwLrdKVBxFyeY3948p?usp=sharing)
