@@ -41,7 +41,9 @@ schedulers = {
 ```
 
 Mô hình cho được kết quả tốt nhất:
+```tex
 Model: EfficientNet_b4; Optimizer: AdamW; Scheduler: CossineAnnealingWarmRestarts
+```
 
 Có sử dụng `criterion = LabelSmoothingLoss` và `Test Time Augmentation (TTA)`
 
