@@ -30,17 +30,17 @@ Kết quả mô hình GhostFaceNet (2023) `GhostFaceNet_W1.3_S1_ArcFace.h5`:
 |:--- | --------:| --------:| --------:| --------:| --------:| --------:|
 | TPR | 0.967593 | 0.974537 | 0.989583 | 0.996528 | 0.997685 | 0.998843 |
 
-![](D:\AI_Learning\Deep_Learning\Q4\Images\Evaluation.png)
+![Model Evaluation](https://github.com/BinhPhamTieSinger/Deep_Learning_Beginner/edit/main/Q4/Images/Evaluation.png?raw=true)
 
 Ảnh đăng nhập vào hệ thống:
 
-![](Images\Portrait_1.jpg)
+![Portrait_1](https://github.com/BinhPhamTieSinger/Deep_Learning_Beginner/edit/main/Q4/Images/Portrait_1.jpg?raw=true)
 
-![](Images\portrait_2.jpeg)
+![Portrait_2](https://github.com/BinhPhamTieSinger/Deep_Learning_Beginner/edit/main/Q4/Images/portrait_2.jpeg?raw=true)
 
 Ảnh để check đăng nhập:
 
-![](Images\portrait_3.jpeg)
+![Portrait_3](https://github.com/BinhPhamTieSinger/Deep_Learning_Beginner/edit/main/Q4/Images/portrait_3.jpeg?raw=true)
 
 Kết quả: Hợp lệ với distance nhỏ nhất
 
