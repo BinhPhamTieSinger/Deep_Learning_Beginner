@@ -34,13 +34,13 @@ Kết quả mô hình GhostFaceNet (2023) `GhostFaceNet_W1.3_S1_ArcFace.h5`:
 
 Ảnh đăng nhập vào hệ thống:
 
-![](D:\AI_Learning\Deep_Learning\Q4\Images\Portrait_1.jpg)
+![](Images\Portrait_1.jpg)
 
-![](D:\AI_Learning\Deep_Learning\Q4\Images\portrait_2.jpeg)
+![](Images\portrait_2.jpeg)
 
 Ảnh để check đăng nhập:
 
-![](D:\AI_Learning\Deep_Learning\Q4\Images\portrait_3.jpeg)
+![](Images\portrait_3.jpeg)
 
 Kết quả: Hợp lệ với distance nhỏ nhất
 
